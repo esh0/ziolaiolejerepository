@@ -5,5 +5,19 @@
       "imageUrl": "https://ziolaioleje.pl/userdata/public/banners/11.jpg",
       "title": "Promocja grudniowa!",
       "description": "Do każdej paczki o wartośi 250zł - dostawa kurierem za darmo gratis!"      
+    },
+   "newOffers": [ 
+    {
+      "offerId": 0,
+      "imageUrl": "https://ziolaioleje.pl/environment/cache/images/300_300_productGfx_1988/P1010625.jpg",
+      "title": "Catuaba Kora Krojona Brazylijska",
+      "description": ""      
+    },
+     {
+      "offerId": 1,
+      "imageUrl": "https://ziolaioleje.pl/environment/cache/images/300_300_productGfx_1970/P1010498-opakowanie-2.jpg",
+      "title": "Jiaogulan Gynostemma Ziele Długowieczności Krojone",
+      "description": ""      
     }
+     ]
 }
