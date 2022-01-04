@@ -10,9 +10,6 @@
     {
       "id": 0,
       "imageUrl": "https://ziolaioleje.pl/environment/cache/images/300_300_productGfx_1988/P1010625.jpg",
-      "imageUrls": [
-        ""
-        ],
       "title": "Catuaba Kora Krojona Brazylijska",
       "description": "Dlaczego warto?\n\nKora z drzewa catuaba - nieprzetworzona, wysuszona i skrojona. Oryginalna herbatka rdzennych mieszkańców Ameryki Południowej.\nPochodzenie - Brazylia, miejsca, gdzie drzewo ma optymalne warunki rozwoju.\nOpakowanie \"doypack\" pozwalające długo zachować świeżość i aktywność substancji czynnych.\nSzeroki wachlarz zastosowań – wywar, nalewka, proszek.\nSurowiec znany ze swoich dobroczynnych właściwości, w tym wzmacniających i afrodyzjakalnych.\nKrój idealny do zaparzania. Surowiec przetwarzany (krojony i przesiany) w Polsce.\n100% kory, bez wypełniaczy. Produkt przebadany w akredytownym laboratorium Eurofins.\n\nCatuaba:\nNazwa catuaba (wymowa ka too aba) w języku rdzennych Indian z plemiona Guarani znaczy \"zioło dające siłę\". Napary z kory drzew catuaba stosowane są w Brazylii oraz innych krajach Ameryki Południowej w stanach osłabienia, w celach zwiększania sił witalnych i relaksu. Herbatka zwana także \"brazylijskim naparem miłośc\", polecana zarówno dla mężczyzn i kobiet. Napar warto wzbogacić o lukrecję lub cynamon.\nNa przestrzeni ostatnich 30 lat preparaty na bazie catuaby były wielokrotnie analizowane przez naukowców z całego świata. Z badań wyniki, iż dobroczynne działanie roślina zawdzięcza trzem substancjom czynnym – catuabina A, catuabina B oraz catuabina C. Ponadto zawiera steroidy, taniny, saponiny, seskwiterpeny, antocyjany, antraceny i flawonolignany. Kora catuaba jest też bogata w minerały (sole magnezu, wapnia, potasu) i pierwiastki śladowe.\n\nKraj pochodzenia: Brazylia\n\nStosowanie: najlepiej w postaci wywarów sporządzanych przez zalanie 2-3 gram pociętej kory wodą, gotowanie przez 5 minut i wypicie po kolejnych 15-20 minutach.",
       "url":"https://ziolaioleje.pl/pl/p/Catuaba-Kora-Krojona-Brazylijska-/22421447"
@@ -49,7 +46,30 @@
       "id":0,
       "title":"Bio Strefa",
       "description":"W prezentowanej ofercie dostępne są starannie wyselekcjonowane produkty organiczne (BIO) pozyskiwane z upraw ekologicznych. Przygotowaliśmy szereg artykułów odpowiednich dla osób poszukujących na co dzień artykułów vege. Nasz zielarski sklep online został stworzony po to, aby umożliwić zakup ziół oraz dodatków żywnościowych przetworzonych w sposób zachowujący jak najwięcej cennych składników pochodzących z natury. Produkty ekologiczne urozmaicą codzienną dietę i dostarczą organizmowi związki potrzebne do jego prawidłowego funkcjonowania.",
-      "imageUrl":""
+      "imageUrl":"",
+      "products": [
+        {
+          "id": 0,
+          "imageUrl": "https://ziolaioleje.pl/environment/cache/images/300_300_productGfx_10d64d7bfa049ecd10253d9b66b9843c.jpg",
+          "title": "Olej z BIO Ostropestu Odmiany SILMA",
+          "description": "Prezentowana oferta obejmuje BIO olej z ostropestu tłoczony na zimno z wysoko sylimarynowej polskiej odmiany SILMA. W sprzedaży dostępny jest produkt ekologiczny, certyfikowany AgroBioTest w kilku pojemnościach do wyboru i korzystnej cenie.",
+          "url":"https://ziolaioleje.pl/pl/p/Olej-z-BIO-Ostropestu-Odmiany-SILMA/22421180"
+        },
+        {
+          "id": 1,
+          "imageUrl": "https://ziolaioleje.pl/environment/cache/images/300_300_productGfx_796/Czernuszka.jpg",
+          "title": "BIO Czarnuszka Certyfikatowe Nasiona Czarnuszki",
+          "description": "Czarnuszka siewna (inaczej czarny kumin) jest drobną, jednoroczną rośliną zielną. Należy do rodziny Jaskrowatych (Ranunculaceae). Najlepiej rośnie w słońcu w ciepłym klimacie. Pozyskiwana z Egiptu, zachowuje idealne warunki do rozwoju. W Polsce jest uprawiana. Łodyga czarnuszki sięga 40 cm wysokości. Kwitnie od maja do września. Posiada białe, spiczaste płatki kwiatowe i ze względu na ozdobny wygląd, bywa uprawiana w ogrodach. Owoc zawiera niewielkie, czarne nasiona, których zbiór następuje we wrześniu. Jest rośliną znaną i cenioną od tysięcy lat. Nazywana \"złotem faraonów\", bowiem według podań znaleziona została w grobowcu Tutanchamona. Występowała już w Asyrii, wspominana w Biblii, a jej właściwości wykorzystywane były przez Hipokratesa i greckiego lekarza Dioskuridesa. Starożytni Grecy i Rzymianie stosowali czarnuszkę do poprawy procesów trawiennych. Swoje tradycje ma także w Polsce, gdzie była stosowana jako przyprawa.",
+          "url":"https://ziolaioleje.pl/pl/p/BIO-Czarnuszka-Certyfikatowe-Nasiona-Czarnuszki/22421259"
+        },
+        {
+          "id": 2,
+          "imageUrl": "https://ziolaioleje.pl/environment/cache/images/300_300_productGfx_1275/P9280031.jpg",
+          "title": "BIO Czarnuszka Certyfikowana Mielona Czarnuszka",
+          "description": "Czarnuszka siewna (inaczej czarny kumin) jest drobną, jednoroczną rośliną zielną. Należy do rodziny Jaskrowatych (Ranunculaceae). Najlepiej rośnie w słońcu w ciepłym klimacie. Pozyskiwana z Egiptu, zachowuje idealne warunki do rozwoju. W Polsce jest uprawiana. Łodyga czarnuszki sięga 40 cm wysokości. Kwitnie od maja do września. Posiada białe, spiczaste płatki kwiatowe i ze względu na ozdobny wygląd, bywa uprawiana w ogrodach. Owoc zawiera niewielkie, czarne nasiona, których zbiór następuje we wrześniu. Jest rośliną znaną i cenioną od tysięcy lat. Nazywana \"złotem faraonów\", bowiem według podań znaleziona została w grobowcu Tutanchamona. Występowała już w Asyrii, wspominana w Biblii, a jej właściwości wykorzystywane były przez Hipokratesa i greckiego lekarza Dioskuridesa. Starożytni Grecy i Rzymianie stosowali czarnuszkę do poprawy procesów trawiennych. Swoje tradycje ma także w Polsce, gdzie była stosowana jako przyprawa.",
+          "url":"https://ziolaioleje.pl/pl/p/BIO-Czarnuszka-Certyfikowana-Mielona-Czarnuszka/22421400"
+        },
+      ]
     },
     {
       "id":1,
